@@ -1,9 +1,6 @@
 # Git & GitHub Workshop Syllabus
 
 **Organized by:** Mechi Mavericks  
-**Target Audience:** Second and Third Semester Students  
-**Duration:** 4 Days (2 Days for Every Semester)  
-**Date:** Baishakh 21 - Baishakh 24  
 **Mode:** In-Person Hands-On Workshop  
 
 ---
